@@ -5,8 +5,7 @@
 </head>
 <body>
 	<h1>Hello World!</h1>
-	<h1>again try, added git in ansible control node</h1>
-	<h1>This is for Team</h1>
+	<h1>successfully completed CI/CD</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
