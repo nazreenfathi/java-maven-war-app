@@ -25,8 +25,8 @@ pipeline{
                          sh "${tool("sonarQube")}/bin/sonar-scanner \
                          -Dsonar.projectKey=java-maven-app \
                          -Dsonar.java.binaries=target \
-                         -Dsonar.host.url=http://3.223.135.41:9000 \
-                         -Dsonar.login=sqp_ff9b5f24d16808f285b91ebd22b47cb65442eb83"
+                         -Dsonar.host.url=http://44.211.243.209:9000 \
+                         -Dsonar.login=sqp_3e61e6c238a46cda602da959e97afada000883c7"
                     }
              }
          }
